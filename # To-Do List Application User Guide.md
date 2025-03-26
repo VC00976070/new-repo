@@ -6,7 +6,7 @@ Welcome to the To-Do List application! This tool helps you organize your tasks e
 ---
 
 ## Features
-- **Create Tasks**: Add new tasks to your list.
+- **Create Tasks**: Add new tasks to your list and items.
 - **Edit Tasks**: Modify existing tasks with ease.
 - **Mark Complete**: Mark tasks as done once completed.
 - **Delete Tasks**: Remove tasks you no longer need.
