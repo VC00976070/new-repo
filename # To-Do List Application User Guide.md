@@ -26,6 +26,7 @@ Welcome to the To-Do List application! This tool helps you organize your tasks e
 2. Click the **Edit** button next to the task.
 3. Update the task details as needed.
 4. Click **Save** to apply changes.
+5. Then click OK.
 
 ### Step 3: Mark a Task as Complete
 1. Find the task you have completed.
