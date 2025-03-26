@@ -18,7 +18,7 @@ Welcome to the To-Do List application! This tool helps you organize your tasks e
 ### Step 1: Create a Task
 1. Open the application.
 2. Click on the **Add Task** button.
-3. Enter the task details in the input field.
+3. Enter the task details in the input field and nuts.
 4. Click **Save** to add the task to your list.
 
 ### Step 2: Edit a Task
